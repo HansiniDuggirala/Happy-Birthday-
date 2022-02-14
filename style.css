@@ -1,0 +1,17 @@
+.body_backgorund {
+    background-image: url('Happy%20.jpg');
+    background-position: center;
+    background-size: contain ;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-top-color:lightpink;
+    border-right-color:navajowhite;
+    border-left-color:powderblue;
+    border-bottom-color:plum;
+    border-style:double;
+    background-image: url('Happy%20Birthday.jpg');
+    background-position: center;
+    background-size: cover;
+}
